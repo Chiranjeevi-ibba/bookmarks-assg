@@ -1,19 +1,18 @@
-
 @font-face {
     font-family: Montserrat-bold;
-    src: url(../Assignment-unorder-list/font-styles/Montserrat-Bold.ttf);
+    src: url(./font-styles/Montserrat-Bold.ttf);
 }
 @font-face {
     font-family: Montserrat-light;
-    src: url(../Assignment-unorder-list/font-styles/Montserrat-Light.ttf);
+    src: url(./font-styles/Montserrat-Light.ttf);
 }
 @font-face {
     font-family: Montserrat-regular;
-    src: url(../Assignment-unorder-list/font-styles/Montserrat-Regular.ttf);
+    src: url(./font-styles/Montserrat-Regular.ttf);
 }
 @font-face {
     font-family: Montserrat-semi-bold;
-    src: url(../Assignment-unorder-list/font-styles/Montserrat-SemiBold.ttf);
+    src: url(./font-styles/Montserrat-SemiBold.ttf);
 }
 .main-section {
     display: flex;
